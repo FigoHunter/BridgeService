@@ -1,0 +1,3 @@
+[submodule "packages/bridge_service_client"]
+	path = packages/bridge_service_client
+	url = git@github.com:FigoHunter/BridgeService.git
