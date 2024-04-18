@@ -7,6 +7,6 @@ setup(
     license='MIT',
     author='figo',
     description='figo',
-    install_requires=['flask'],
+    install_requires=['flask','requests','flask-cors'],
     tests_require=[]
 )

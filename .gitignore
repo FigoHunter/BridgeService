@@ -1,2 +1,6 @@
 env/
 packages/bridge_service.egg-info/
+*.pyc
+build/
+*.spec
+*.log
